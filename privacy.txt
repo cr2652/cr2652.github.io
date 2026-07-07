@@ -1,0 +1,57 @@
+
+Gizlilik Politikası
+Son Güncelleme Tarihi: [Gün/Ay/Yıl]
+
+CalcOne ("Uygulama") olarak, kullanıcılarımızın gizliliğine ve kişisel verilerinin korunmasına büyük önem veriyoruz. Bu Gizlilik Politikası, uygulamamızı kullandığınızda hangi verilerin toplandığını, bu verilerin nasıl kullanıldığını ve haklarınızı açıklamaktadır.
+
+1. Toplanan Veriler
+Uygulamamızı kullandığınızda, size daha iyi bir deneyim sunabilmek adına aşağıdaki verileri toplayabiliriz:
+
+Kişisel Bilgiler: Hesap oluştururken veya bizimle iletişime geçtiğinizde verdiğiniz ad, soyad, e-posta adresi gibi bilgiler. (Eğer kullanıcı kaydı yoksa bu maddeyi silebilirsiniz)
+
+Kullanım ve Cihaz Verileri: Cihazınızın modeli, işletim sistemi sürümü, benzersiz cihaz tanımlayıcıları, IP adresi ve uygulama içindeki etkileşimleriniz (tıklama sıklığı, kullanılan özellikler).
+
+Konum Bilgisi: Uygulamanın temel işlevlerini yerine getirebilmesi için (izin vermeniz halinde) yaklaşık veya kesin konum verileriniz. (Eğer konum kullanmıyorsanız bu maddeyi silebilirsiniz)
+
+2. Verilerin Kullanım Amaçları
+Toplanan veriler yalnızca aşağıdaki amaçlar doğrultusinde kullanılır:
+
+Uygulamanın sorunsuz bir şekilde çalışmasını ve optimize edilmesini sağlamak.
+
+Kullanıcı deneyimini kişiselleştirmek ve geliştirmek.
+
+Müşteri desteği sağlamak ve sorularınıza yanıt vermek.
+
+Yasal yükümlülükleri yerine getirmek.
+
+3. Verilerin Üçüncü Taraflarla Paylaşımı
+Kişisel verileriniz yasal zorunluluklar haricinde asla üçüncü şahıslara satılmaz veya kiralanmaz. Ancak, uygulamanın çalışması için gerekli olan şu üçüncü taraf hizmet sağlayıcılarıyla (analiz araçları, reklam ağları vb.) veri paylaşımı yapılabilir:
+
+Örnek: Google Analytics for Firebase (Uygulama analizi için)
+
+Örnek: Google AdMob (Reklam gösterimi için)
+
+Not: Bu üçüncü taraf hizmetlerin kendi gizlilik politikaları geçerlidir. İlgili sağlayıcıların politikalarını incelemenizi öneririz.
+
+4. Veri Güvenliği
+Verilerinizin güvenliğini sağlamak için makul fiziksel, teknik ve idari güvenlik önlemleri almaktayız. Ancak, internet üzerinden yapılan hiçbir iletim yönteminin veya elektronik depolama yönteminin %100 güvenli olmadığını hatırlatmak isteriz.
+
+5. Çocukların Gizliliği
+Uygulamamız 13 yaşın (veya ülkenizde geçerli olan yasal sınırın) altındaki çocuklara doğrudan hitap etmemektedir. Bilerek çocuklardan kişisel veri toplamıyoruz. Eğer bir çocuğun bize kişisel veri sağladığını fark ederseniz, lütfen bizimle iletişime geçin; bu verileri derhal sunucularımızdan sileceğiz.
+
+6. Haklarınız
+Kişisel verileriniz üzerinde tam kontrol hakkına sahipsiniz. Dilediğiniz zaman:
+
+Hangi verilerinizi tuttuğumuzu öğrenebilir,
+
+Eksik veya yanlış verilerin düzeltilmesini isteyebilir,
+
+Hesabınızı ve verilerinizin silinmesini talep edebilirsiniz.
+
+7. Değişiklikler
+Bu Gizlilik Politikası zaman zaman güncellenebilir. Güncellemeleri bu sayfada yayınlayarak sizi bilgilendireceğiz. Değişiklikleri takip etmek için bu politikayı düzenli olarak gözden geçirmeniz önerilir.
+
+8. İletişim
+Bu Gizlilik Politikası ile ilgili herhangi bir sorunuz veya talebiniz olması durumunda bizimle aşağıdaki kanallardan iletişime geçebilirsiniz:
+
+E-posta: akskdr34@gmail.com
